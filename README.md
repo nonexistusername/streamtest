@@ -2,8 +2,6 @@
 
 -You need m3u playlist in txt file (not url)
 
--Save your playlist on Desktop and name it "streamy.m3u"
-
 -Working streams will be saved in "functionalstreams.m3u" on desktop
 
 -Just download and start with "python streamtest.py"
